@@ -17,7 +17,6 @@ image:
   focal_point: Smart
 
 links:
-  - icon: twitter
 url_code: 'https://osf.io/dpgx8/'
 url_pdf: 'https://www.mdpi.com/2079-3200/7/3/21'
 url_slides: ''
