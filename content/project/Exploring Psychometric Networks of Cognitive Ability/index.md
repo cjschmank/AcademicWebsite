@@ -28,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 ---
 
 At the outset of my doctoral career with Claremont Graduate University (Fall of 2017) I was afforded the opportunity to explore "Network Modeling." My doctoral graduate mentor, Andrew R.A. Conway, PhD. described this new technique to me as a potentially adventageous statistical tool that was recently developed that he wanted to start implementing in our research lab (http://andrewraconway.squarespace.com/andrew-conway). I was excited to start learning because one of the main reasons I chose CGU was to continue studying Cognitive Psychology while also focusing on various topics within Quantitative Psychology and Psychometrics.

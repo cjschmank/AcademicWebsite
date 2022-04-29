@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: '
 ---
 
 As a user experience researcher I have conducted several applied research projects with my colleague Sara Anne Goring. One research project involved a meticulous user experience methodology designed to assess various aspects (i.e., luminosity, distance, and obstruction) impact on gameplay. This methodology was produced by Sara Anne Goring and we both conducted research based on her genearl plan. Other projects where I have acted as a consultant have involved conducting competitive product analyses and presenting the findings in an executive data brief. 

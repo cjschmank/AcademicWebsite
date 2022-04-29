@@ -29,7 +29,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 ---
 
 We are currently collecting data from young and older adult participants using CloudResearch. One of the side projects from the DARCI Project is my personal dissertation topic which poses the research question: Does Aging impact the Effect of Emotion Regulation on Processing Speed task Performance? 

@@ -28,7 +28,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ''
 ---
 
 Much of my early career as an Undergraduate and M.A. Graduate student consisted of work in various research labs that focused on the impact of various psychosocial factors on language producation ability. Within this line of research I was lucky to meet and work with Tony W. Buchanan, PhD, who eventually accepted to assume the roll as both my Undergraduate Academic and Research Advisor.
