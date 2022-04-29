@@ -25,32 +25,46 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: christopher.schmank@cgu.edu
+  phone: 
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 
+    city: 
+    region: 
+    postcode: ''
+    country: 
+    country_code: 
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: ''
+    longitude: ''
+  directions: 
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+  appointment_url: ''
   contact_links:
     - icon: twitter
       icon_pack: fab
-      name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      name: Follow on Twitter
+      link: 'https://twitter.com/cjschmank'
+    - icon: linkedin
+      icon_pack: fab
+      name: Find on LinkedIn
+      link: 'https://www.linkedin.com/in/christopherjschmank/'
+    - icon: osf
+      icon_pack: ai
+      name: Find on OSF
+      link: 'https://osf.io/b57sp/'
+    - icon: researchgate
+      icon_pack: fab
+      name: Find on ResearchGate
+      link: https://www.researchgate.net/profile/Christopher-Schmank-2'    
+    - icon: google-scholar
+      icon_pack: ai
+      name: Find on GoogleScholar
+      link: 'https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en'
+    - icon: github
+      icon_pack: fab
+      name: Find on GitHub
+      link: https://github.com/cjschmank/'
 
 design:
   columns: '2'

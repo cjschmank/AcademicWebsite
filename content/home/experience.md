@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Research Experience
 subtitle:
 
 # Date format for experience
@@ -22,29 +22,77 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+  - title: User Experience Research Assistant
+    company: HitPoint Studios
+    company_url: 'https://www.hitpointstudios.com/'
+    company_logo: 
+    location: 'Supervisor: Ariella Lehrer, Ph.D'
+    date_start: '2019-05-13'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description: 
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Graduate Research Assistant
+    company: CALIBER Lab - Claremont Graduate University
+    company_url: 'http://andrewraconway.squarespace.com/'
+    company_logo: 
+    location: 'Supervisor: Andrew R.A. Conway, PhD'
+    date_start: '2017-08-01'
+    date_end: ''
+    description: 
+
+  - title: Specialized Consultant
+    company: Accenture Talent and Innovation Lab - Claremont Graduate University
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: 'Supervisor: Christopher Chen, MA'
+    date_start: '2019-03-01'
+    date_end: '2019-09-03'
+    description: 
 
+  - title: Research Associate
+    company: Accenture Talent and Innovation Lab - Claremont Graduate University
+    company_url: ''
+    company_logo: 
+    location: 'Supervisor: Christopher Chen, MA'
+    date_start: '2018-08-01'
+    date_end: '2019-03-01'
+    description: 
+
+  - title: Graduate Research Assistant
+    company: Language and Memory Problems Lab - University of Colorado Colorado Springs
+    company_url: ''
+    company_logo: 
+    location: 'Supervisor: Lori E. James, PhD'
+    date_start: '2012-08-01'
+    date_end: '2017-08-01'
+    description: 
+
+  - title: Undergraduate Research Assistant
+    company: Cognitive Neuroscience of Stress Lab - Saint Louis University
+    company_url: 'http://andrewraconway.squarespace.com/'
+    company_logo: 
+    location: 'Supervisor: Tony W. Buchanan, PhD'
+    date_start: '2008-12-01'
+    date_end: '2011-12-01'
+    description: 
+
+  - title: Undergraduate Research Assistant
+    company: Brain, Learning, and Cognition Lab - Saint Louis University
+    company_url: ''
+    company_logo: 
+    location: 'Supervisor: Christopher Conway, PhD'
+    date_start: '2009-08-01'
+    date_end: '2011-06-01'
+    description: 
+
+  - title: Undergraduate Research Assistant
+    company: Cognition and Memory Lab - Saint Louis University
+    company_url: ''
+    company_logo: 
+    location: 'Supervisor: Donna LaVoie, PhD and Kethera Fogler, PhD'
+    date_start: '2008-01-01'
+    date_end: '2011-05-01'
+    description: 
 design:
   columns: '2'
 ---

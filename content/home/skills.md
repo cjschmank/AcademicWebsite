@@ -16,18 +16,42 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - description: 90%
+  - description: 
+    icon: cogs
+    icon_pack: fas
+    name: Cognitive Science Methodology
+  - description: 
     icon: r-project
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: R-Studio
+  - description: 
+    icon: microscope
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Psychological Science Methodology
+  - description: 
+    icon: chalkboard-teacher
     icon_pack: fas
-    name: Photography
+    name: Teaching Assistant Experience
+  - description: 
+    icon: share-alt
+    icon_pack: fas
+    name: Psychometric Network Analysis
+  - description: 
+    icon: sitemap
+    icon_pack: fas
+    name: Latent Variable Modeling
+  - description: 
+    icon: python
+    icon_pack: fab
+    name: Python Novice
+  - description: 
+    icon: gamepad
+    icon_pack: fas
+    name: UX/AR Research
+  - description: 
+    icon: cat
+    icon_pack: fas
+    name: Cat Enthusiast
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
