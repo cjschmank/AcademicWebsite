@@ -80,4 +80,4 @@ Christopher J. Schmank, MA is a doctoral graduate student at Claremont Graduate 
 
 Additionally, since joining Andrew Conway, PhD at CGU I have focused on  various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability. 
 
-If you are interested check out my User Experience Research Portfolio: **cjschmank-ux-portfolio.netlify.app**
+Check out my User Experience Research Portfolio: **cjschmank-ux-portfolio.netlify.app**
