@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: User Experience Research Assistant
-    company: HitPoint Studios
+    company: HitPoint Studios </br> Lost Angeles, CA
     company_url: 'https://www.hitpointstudios.com/'
     company_logo: 
     location: 'Supervisor: Ariella Lehrer, Ph.D'
@@ -32,7 +32,7 @@ experience:
     description: 
 
   - title: Graduate Research Assistant
-    company: CALIBER Lab - Claremont Graduate University
+    company: CALIBER Lab </br> Claremont Graduate University
     company_url: 'http://andrewraconway.squarespace.com/'
     company_logo: 
     location: 'Supervisor: Andrew R.A. Conway, PhD'
@@ -41,7 +41,7 @@ experience:
     description: 
 
   - title: Specialized Consultant
-    company: Accenture Talent and Innovation Lab - Claremont Graduate University
+    company: Accenture Talent and Innovation Lab </br> Claremont Graduate University
     company_url: ''
     company_logo: 
     location: 'Supervisor: Christopher Chen, MA'
@@ -50,7 +50,7 @@ experience:
     description: 
 
   - title: Research Associate
-    company: Accenture Talent and Innovation Lab - Claremont Graduate University
+    company: Accenture Talent and Innovation Lab </br> Claremont Graduate University
     company_url: ''
     company_logo: 
     location: 'Supervisor: Christopher Chen, MA'
@@ -59,7 +59,7 @@ experience:
     description: 
 
   - title: Graduate Research Assistant
-    company: Language and Memory Problems Lab - University of Colorado Colorado Springs
+    company: Language and Memory Problems Lab </br> University of Colorado Colorado Springs
     company_url: ''
     company_logo: 
     location: 'Supervisor: Lori E. James, PhD'
@@ -68,8 +68,8 @@ experience:
     description: 
 
   - title: Undergraduate Research Assistant
-    company: Cognitive Neuroscience of Stress Lab - Saint Louis University
-    company_url: 'http://andrewraconway.squarespace.com/'
+    company: Cognitive Neuroscience of Stress Lab </br> Saint Louis University
+    company_url: ''
     company_logo: 
     location: 'Supervisor: Tony W. Buchanan, PhD'
     date_start: '2008-12-01'
@@ -77,7 +77,7 @@ experience:
     description: 
 
   - title: Undergraduate Research Assistant
-    company: Brain, Learning, and Cognition Lab - Saint Louis University
+    company: Brain, Learning, and Cognition Lab </br> Saint Louis University
     company_url: ''
     company_logo: 
     location: 'Supervisor: Christopher Conway, PhD'
@@ -86,7 +86,7 @@ experience:
     description: 
 
   - title: Undergraduate Research Assistant
-    company: Cognition and Memory Lab - Saint Louis University
+    company: Cognition and Memory Lab </br> Saint Louis University
     company_url: ''
     company_logo: 
     location: 'Supervisor: Donna LaVoie, PhD and Kethera Fogler, PhD'

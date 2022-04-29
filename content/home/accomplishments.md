@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Claremont Graduate University
     organization_url: 
-    title: 'User Experience: Strategy & Design (PSY 350UX) Graduate Teaching Assistant'
+    title: 'User Experience </br> Strategy & Design (PSY 350UX) </br> Graduate Teaching Assistant'
     url: ''
   - certificate_url: 
     date_end: '2021-12-15'
@@ -37,7 +37,7 @@ item:
     description: 
     organization: Claremont Graduate University 
     organization_url: 
-    title: 'User Experience: Interaction Design and Usability Testing (PSY 350UT) Co-Graduate Teaching Assistant'
+    title: 'User Experience </br> Interaction Design and Usability Testing (PSY 350UT) </br> Co-Graduate Teaching Assistant'
     url: 
   - certificate_url: 
     date_end: '2021-08-18'
@@ -45,7 +45,7 @@ item:
     description: ''
     organization: Pomona College
     organization_url: 
-    title: 'Introductory Statistics for Psychological Science (PSYC 158) Teaching Assistant/Lab Instructor'
+    title: 'Introductory Statistics for Psychological Science (PSYC 158) </br> Teaching Assistant/Lab Instructor'
     url: ''
   - certificate_url: 
     date_end: '2020-08-20'
@@ -53,7 +53,7 @@ item:
     description: ''
     organization: Claremont McKenna College
     organization_url: 
-    title: 'Introduction to Statistics for Psychology (PSYC 109) Teaching Assistant'
+    title: 'Introduction to Statistics for Psychology (PSYC 109) </br> Teaching Assistant'
     url: ''
   - certificate_url: 
     date_end: '2019-12-21'
@@ -61,7 +61,7 @@ item:
     description: 
     organization: Claremont Graduate University 
     organization_url: 
-    title: 'Structural Equation Modeling (PSY 315H) Graduate Teaching Assistant'
+    title: 'Structural Equation Modeling (PSY 315H) </br> Graduate Teaching Assistant'
     url: 
   - certificate_url: 
     date_end: '2019-10-26'
@@ -69,7 +69,7 @@ item:
     description: ''
     organization: Claremont Graduate University
     organization_url: 
-    title: 'Factor Analysis (PSY 315F) Graduate Teaching Assistant'
+    title: 'Factor Analysis (PSY 315F) </br> Graduate Teaching Assistant'
     url: ''
   - certificate_url: 
     date_end: '2019-08-01'
@@ -77,7 +77,7 @@ item:
     description: ''
     organization: Claremont Graduate University
     organization_url: 
-    title: 'Quantitative Analysis & Statistics for Evaluation (EVAL 320-Online) Graduate Teaching Assistant'
+    title: 'Quantitative Analysis & Statistics for Evaluation (EVAL 320-Online) </br> Graduate Teaching Assistant'
     url: ''
   - certificate_url: 
     date_end: '2019-08-01'
@@ -85,7 +85,7 @@ item:
     description: 
     organization: Claremont Graduate University 
     organization_url: 
-    title: 'Mixed Methods in Evaluation & Applied Research (EVAL 330-Online) Graduate Teaching Assistant'
+    title: 'Mixed Methods in Evaluation & Applied Research (EVAL 330-Online) </br> Graduate Teaching Assistant'
     url: 
   - certificate_url: 
     date_end: '2021-08-01'
@@ -93,7 +93,7 @@ item:
     description: ''
     organization: Claremont McKenna College
     organization_url: 
-    title: 'Psychology Senior Research Seminar (PSYC 198) Statistics Consultant'
+    title: 'Psychology Senior Research Seminar (PSYC 198) </br> Statistics Consultant'
     url: ''
   - certificate_url: 
     date_end: '2016-08-01'
@@ -101,7 +101,7 @@ item:
     description: ''
     organization: University of Colorado Colorado Springs
     organization_url: 
-    title: 'Social Science Statistics Tutor - Excel Mathematics Center'
+    title: 'Social Science Statistics Tutor </br> Excel Mathematics Center'
     url: ''
   - certificate_url: 
     date_end: '2015-01-01'
@@ -109,7 +109,7 @@ item:
     description: 
     organization: University of Colorado Colorado Springs 
     organization_url: 
-    title: 'Survey of Learning and Cognition (PSY 3130) Teaching Assistant'
+    title: 'Survey of Learning and Cognition (PSY 3130) </br> Teaching Assistant'
     url: 
   - certificate_url: 
     date_end: '2015-01-01'
@@ -117,7 +117,7 @@ item:
     description: ''
     organization: University of Colorado Colorado Springs
     organization_url: 
-    title: 'Undergraduate Research Methods (PSY 2110) Teaching Assistant'
+    title: 'Undergraduate Research Methods (PSY 2110) </br> Teaching Assistant'
     url: ''
 
 design:
