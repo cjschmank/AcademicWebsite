@@ -1,39 +1,42 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Christopher J. Schmank
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student and User Experience Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Claremont Graduate University
+    url: https://www.cgu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include cognitive ability, psychosocial stress, emotional regulation, rationality, and language production. My additional skills include various statistical modeling techniques both using latent variable and/or psychometric network analyses.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Psychosocial Stress
+  - Emotional Regulation
+  - Cognitive Science
+  - Rationality
+  - Language Production
+  - Statistical Modeling
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Applied Cognitive Psychology
+      institution: Claremont Graduate University
+      year: Anticipated 2021-2022
+    - course: MA in Psychological Sciences with Cognitive Concentration
+      institution: University of Colorado Colorado Springs
+      year: 2016
+    - course: BA in Psychology
+      institution: Saint Louis University
+      year: 2010 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,23 +48,26 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://twitter.com/cjschmank
+  - icon: ggoogle-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/cjschmank/
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/christopherjschmank/
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Christopher_Schmanka
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,8 +76,8 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Christopher J. Schmank, MA is a doctoral graduate student at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His previous research interests have included (1) the impact of psychosocial stress on language production and general cognitive functioning, (2) the impact of emotion regulation on language production and general cognitive functioning, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Additionally, since joining Andrew Conway, PhD at CGU I have focused on  various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+If you are interested check out my User Experience Research Portfolio: cjschmank-ux-portfolio.netlify.app
