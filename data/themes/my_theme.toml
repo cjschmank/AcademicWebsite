@@ -3,11 +3,11 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#700606"
+  primary = "#702963"
 
   # Menu
   menu_primary = "rgb(255, 255, 255)"
-  menu_text = "#700606"
+  menu_text = "#702963"
   menu_text_active = "#2b2b2b"
   menu_title = "#2b2b2b"
 
@@ -17,7 +17,7 @@ name = "my_theme"
 
 [dark]
   # Primary
-  primary = "#700606"
+  primary = "#702963"
 
-  link = "#700606"
-  link_hover = "#700606"
+  link = "#702963"
+  link_hover = "#702963"
