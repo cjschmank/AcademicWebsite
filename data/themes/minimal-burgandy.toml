@@ -4,16 +4,16 @@ name = "minimal-burgandy"
 # Is theme light or dark?
 light = true
 
-# Primary
-primary = "#700606"
+    # Primary
+    primary = "#700606"
 
-# Menu
-menu_primary = "rgb(255, 255, 255)"
-menu_text = "#700606"
-menu_text_active = "#2b2b2b"
-menu_title = "#2b2b2b"
+    # Menu
+    menu_primary = "rgb(255, 255, 255)"
+    menu_text = "#700606"
+    menu_text_active = "#2b2b2b"
+    menu_title = "#2b2b2b"
 
-# Backgrounds
-background = "rgb(247, 247, 247)"
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+    # Backgrounds
+    background = "rgb(247, 247, 247)"
+    home_section_odd = "rgb(255, 255, 255)"
+    home_section_even = "rgb(247, 247, 247)"
