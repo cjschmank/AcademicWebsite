@@ -1,13 +1,13 @@
- # Theme metadata
+# Theme metadata
 name = "my_theme"
 
 [light]
   # Primary
-  primary = "#800020"
+  primary = "#355E3B"
 
   # Menu
   menu_primary = "rgb(255, 255, 255)"
-  menu_text = "#800020"
+  menu_text = "#355E3B"
   menu_text_active = "#2b2b2b"
   menu_title = "#2b2b2b"
 
@@ -17,7 +17,7 @@ name = "my_theme"
 
 [dark]
   # Primary
-  primary = "#800020"
+  primary = "#00A36C"
 
-  link = "#800020"
-  link_hover = "#800020"
+  link = "#00A36C"
+  link_hover = "#00A36C"
