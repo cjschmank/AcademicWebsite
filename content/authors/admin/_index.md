@@ -20,10 +20,12 @@ bio: My research interests include cognitive ability, psychosocial stress, emoti
 interests:
   - Psychosocial Stress
   - Emotional Regulation
+  - UX/Human Centered Design
   - Cognitive Science
   - Rationality
   - Language Production
   - Statistical Modeling
+
 
 # Education to show in About widget
 education:
@@ -80,8 +82,8 @@ Christopher J. Schmank, MA is a doctoral graduate student at Claremont Graduate 
 
 Additionally, since joining Andrew Conway, PhD at CGU he has focused on various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability. 
 
-Christopher is currently working on completing his dissertation project and Ph.D. program as he looks for available post-doctoral and/or UX Research positions! Please contact him if you have any questions about his research or UX experience!!
+Christopher is currently working on completing his dissertation project and Ph.D. program as he looks for available post-doctoral and/or User eXperience (UX) Research/Human Centered Design or Data Science and Analysis positions! Please contact him if you have any questions about his research or UX experience!!
 
-Check out his User Experience Research Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>.
+Check out his UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>.
 
 
