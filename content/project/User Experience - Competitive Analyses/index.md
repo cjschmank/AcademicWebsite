@@ -6,7 +6,7 @@ tags:
 - User Experience Strategy
 - Competitive Analysis
 - Executive Data Brief
-- Applied Research
+- Applied Projects
 date: '2020-08-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
