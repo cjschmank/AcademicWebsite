@@ -12,8 +12,9 @@ date: '2020-08-20T00:00:00Z'
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
-image: caption:Photo by <a href="https://unsplash.com/@johnschno?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">John Schnobrich</a> on <a href="https://unsplash.com/s/photos/user-experience-research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> 
-focal_point: Smart
+image: 
+  caption: Photo by <a href="https://unsplash.com/@johnschno?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">John Schnobrich</a> on <a href="https://unsplash.com/s/photos/user-experience-research?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> 
+  focal_point: Smart
 
 links:
 url_code: ''
