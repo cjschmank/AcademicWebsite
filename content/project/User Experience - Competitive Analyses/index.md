@@ -30,4 +30,4 @@ url_video: ''
 slides: ''
 ---
 
-As a user experience researcher I have conducted several applied research projects with my colleague Sara Anne Goring. One research project involved a meticulous user experience methodology designed to assess various aspects (i.e., luminosity, distance, and obstruction) impact on gameplay. This methodology was produced by Sara Anne Goring and we both conducted research based on her methodology. Other projects where I have acted as a consultant have involved conducting competitive product analyses and presenting the findings in executive data briefs. 
+As a user experience researcher I have conducted several applied research projects with my colleague Sara Anne Goring. One research project involved a meticulous user experience methodology designed to assess various aspects (i.e., luminosity, distance, and obstruction) impact on gameplay. This methodology was produced by Sara Anne Goring and we both conducted user research based on her prescribed methodological plan. Other projects where I have acted as a consultant have involved conducting competitive product analyses and presenting the findings in executive data briefs. 
