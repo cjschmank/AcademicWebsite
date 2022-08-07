@@ -30,4 +30,8 @@ url_video: ''
 slides: ''
 ---
 
-As a user experience researcher I have conducted several applied research projects with my colleague Sara Anne Goring. One research project involved a meticulous user experience methodology designed to assess various aspects (e.g., luminosity, distance, and obstruction) impact on gameplay. This methodology was produced by Sara Anne Goring and we both conducted user research based on her prescribed methodological plan. Other projects where I have acted as a consultant have involved conducting competitive product analyses and presenting the findings in executive data briefs. 
+As a user experience researcher I have conducted several applied research projects with my colleague Sara Anne Goring. 
+
+One research project involved a meticulous user experience methodology designed to assess various aspects (e.g., luminosity, distance, and obstruction) impact on Augmented Reality gameplay. This methodology was produced by Sara Anne Goring and we both conducted user research based on her prescribed methodological plan. Following our user experience research the company made changes to the game cards used in order to ensure that playability was not negatively impacted by general wear and tear or other non-game elements.
+
+I have also been hired as a user experience consultant for several research projects where competitive product analyses were conducted and presented via executive data briefs. One project centered around a second Augmented Reality product geared towards urban planning and community outreach programs. For another project, competitive analyses were conducted looking at Extended Reality usage in hospital settings. Finally, my most recent consulting job centered around alternative substance therapies and extended reality to benefit mental health outcomes. 
