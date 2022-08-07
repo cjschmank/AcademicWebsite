@@ -1,6 +1,6 @@
 ---
 title: Psychometric models of individual differences in reading comprehension - A reanalysis of Freed, Hamilton, and Long (2017)
-summary: This research project is the culmination of a first year project originally by  Sara Anne Goring submitted and accepted by the Journal of Memory and Language. 
+summary: This research project is the culmination of a first year project by Sara Anne Goring submitted and accepted by the Journal of Memory and Language. 
 tags:
 - Reading Comprehension
 - Latent Variable Modeling

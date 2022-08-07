@@ -46,6 +46,6 @@ Contact Information
 
 Christopher J. Schmank, M.A.
 
-Personal website: cjschmank.github.io
+Personal website: cjschmank.netlify.app
 
 Applied Cognitive/Quantitative Psychology PhD Graduate student at Claremont Graduate University

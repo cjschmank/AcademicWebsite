@@ -30,4 +30,8 @@ url_video: ''
 slides: ''
 ---
 
-We are currently collecting data from young and older adult participants using CloudResearch. The main research project involves collecting Crystallized and Fluid Intelligence data alongside Rationality. This is one of the first online efforts to gather this type of individual differences data, and we hope to establish the underlying structure of responding for both young and older adult participants. We are also interested in whether tasks that measure Rationality share more with tests of Crystallized or Fluid Intelligence. 
+Currently we have collected data from 108 young adult participants between the ages of 18-25 and 91 older adult participants above the age of 60 using the CloudResearch online recruitment and research system. 
+
+The goal of this research project involves collecting young and older adult data corresponding to the psychological constructs of Crystallized Intelligence (i.e., general knowledge) and Fluid Intelligence (i.e., reasoning) data as well as novel data on adult Rationality (i.e., good thinking). 
+
+This is one of the first online efforts to gather this type of individual differences data, and we hope to establish the underlying structure of responding for both young and older adult participants. We are also interested in whether tasks that measure Rationality share more variance with tests of Crystallized Intelligence or Fluid Intelligence. 
