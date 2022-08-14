@@ -14,7 +14,7 @@ organizations:
     url: https://www.cgu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include cognitive ability, psychosocial stress, emotional regulation, rationality, and language production. My additional skills include various statistical modeling techniques both using latent variable and/or psychometric network analyses.
+bio: My research interests include cognitive ability, psychosocial stress, emotional regulation, rationality, and language production. My additional skills include various statistical modeling techniques both using latent variable and/or psychometric network analyses. I am also experienced in user experience strategy and research including A/B testing, rapid prototyping, and competitive analyses.
 
 # Interests to show in About widget
 interests:
@@ -51,7 +51,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cjschmank
-  - icon: ggoogle-scholar
+  - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en
   - icon: github
@@ -82,7 +82,7 @@ Christopher J. Schmank, MA is a doctoral graduate student at Claremont Graduate 
 
 Additionally, since joining Andrew Conway, PhD at CGU he has focused on various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability. 
 
-Christopher is currently working on completing his dissertation project and Ph.D. program as he looks for available post-doctoral and/or User eXperience (UX) Research/Human Centered Design or Data Science and Analysis positions! Please contact him if you have any questions about his research or UX experience!!
+Christopher is currently working on completing his dissertation project and Ph.D. program as he looks for available post-doctoral and/or User eXperience (UX) Research/Human Centered Design or Data Science and Analytics positions! Please contact him if you have any questions about his research or UX experience!!
 
 Check out his UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>.
 
