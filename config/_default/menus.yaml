@@ -10,10 +10,10 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  - name: Research Experience
+  - name: Research
     url: '#experience'
     weight: 50
-  - name: Teaching Experience
+  - name: Teaching
     url: '#accomplishments'
     weight: 40
   - name: Publications
