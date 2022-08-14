@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Applied Cognitive Psychology
       institution: Claremont Graduate University
-      year: Anticipated 2021-2022
+      year: Anticipated 2023
     - course: MA in Psychological Sciences with Cognitive Concentration
       institution: University of Colorado Colorado Springs
       year: 2016
