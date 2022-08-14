@@ -23,7 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: User Experience Research Assistant
-    company: HitPoint Studios </br> Lost Angeles, CA
+    company: Reality Smash </br> Irvine, CA
+    company_url: 'https://www.hitpointstudios.com/'
+    company_logo: 
+    location: 'Supervisor: Dylan Watkins & Tanya Miramontes '
+    date_start: '2020-10-09'
+    date_end: '2022-08-01'
+    description: 
+
+  - title: User Experience Research Assistant - Pebble XR
+    company: Here.LA </br> Los Angeles, CA
+    company_url: ''
+    company_logo: 
+    location: 'Supervisor: Amber Hawkes & Shannon Davis'
+    date_start: '2021-02-24'
+    date_end: '2021-05-28'
+    description: 
+
+  - title: User Experience Research Assistant
+    company: HitPoint Studios </br> Los Angeles, CA
     company_url: 'https://www.hitpointstudios.com/'
     company_logo: 
     location: 'Supervisor: Ariella Lehrer, Ph.D'
