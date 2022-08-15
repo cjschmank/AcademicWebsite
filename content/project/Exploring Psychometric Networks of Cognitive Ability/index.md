@@ -13,7 +13,7 @@ date: '2017-08-20T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Psychometric Network Model (Hungarian WAIS-IV)
+  caption: Snapshot of Psychometric Network Model (Hungarian WAIS-IV)
   focal_point: Smart
 
 links:

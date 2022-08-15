@@ -14,7 +14,7 @@ date: '2014-08-23T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Comic posted by Melissa Thompson
+  caption: Comic posted <a href="https://web.colby.edu/cogblog/2018/04/26/its-on-the-ttt-tip-of-my-tongue-the-tip-of-the-tongue-phenomenon/">by Bridget Horwood in a 2018 blog post.</a> 
   focal_point: Smart
 
 links:

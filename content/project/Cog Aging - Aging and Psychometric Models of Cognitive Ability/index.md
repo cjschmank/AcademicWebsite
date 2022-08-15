@@ -14,7 +14,7 @@ date: '2020-05-19T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Exploratory (Young Adult) and Confirmatory (Older Adult) Networks
+  caption: Snapshot of Exploratory (Young Adult) and Confirmatory (Older Adult) Networks
   focal_point: Smart
 
 links:

@@ -13,7 +13,7 @@ date: '2020-06-25T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Snapshot of Psychometric Network Analysis on various measures related to Reading Comprehension
   focal_point: Smart
 
 links:

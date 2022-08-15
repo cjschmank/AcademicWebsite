@@ -28,3 +28,9 @@ main:
   - name: CV
     url: /uploads/cv.pdf
     weight: 70
+  - name: Resume - UX
+    url: /uploads/resumeux.pdf
+    weight: 80
+  - name: Resume - Analytics
+    url: /uploads/resumedsa.pdf
+    weight: 90

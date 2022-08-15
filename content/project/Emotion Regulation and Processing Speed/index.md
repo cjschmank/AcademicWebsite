@@ -15,7 +15,7 @@ date: '2022-01-21T00:00:00Z'
 external_link: ''
 
 image:
-  caption:
+  caption: Photo posted by <a href="https://pubs.asha.org/doi/full/10.1044/2020_JSLHR-19-00188">American Speech-Language-Hearing Association Open Access Publication</a>
   focal_point: Smart
 
 links:

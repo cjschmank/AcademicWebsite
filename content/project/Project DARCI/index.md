@@ -13,7 +13,7 @@ date: '2022-01-20T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo from https://psychology-spot.com/intelligence-and-rationality/
+  caption: Photo posted by <a href="https://psychology-spot.com/intelligence-and-rationality/">Psychology-Spot</a>
   focal_point: Smart
 
 links:
