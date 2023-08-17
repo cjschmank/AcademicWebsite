@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: christopher.schmank@cgu.edu
-  phone: 
+  email: chris.schmank@health.slu.edu
+  phone: 314-977-7299
   address:
-    street: 
-    city: 
+    street: 3700 Lindell Blvd., Morrissey Hall, Room 2827
+    city: St. Louis
     region: 
-    postcode: ''
+    postcode: '63108'
     country: 
     country_code: 
   coordinates:

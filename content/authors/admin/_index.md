@@ -6,12 +6,12 @@ title: Christopher J. Schmank
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student and User Experience Researcher
+role: Instructor/Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Claremont Graduate University
-    url: https://www.cgu.edu/
+  - name: Saint Louis University
+    url: https://www.slu.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include cognitive ability, psychosocial stress, emotional regulation, rationality, and language production. My additional skills include various statistical modeling techniques both using latent variable and/or psychometric network analyses. I am also experienced in user experience strategy and research including A/B testing, rapid prototyping, and competitive analyses.
@@ -81,11 +81,11 @@ email: ''
 highlight_name: true
 ---
 
-Christopher J. Schmank, MA is a doctoral graduate student at Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His previous research interests have included (1) the impact of psychosocial stress on language production and general cognitive functioning, (2) the impact of emotion regulation on language production and general cognitive functioning, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. 
+Christopher J. Schmank, MA is a doctoral graduate student from Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His previous research interests have included (1) the impact of psychosocial stress on language production and general cognitive functioning, (2) the impact of emotion regulation on language production and general cognitive functioning, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. 
 
 Additionally, since joining Andrew Conway, PhD at CGU he has focused on various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability. 
 
-Christopher is currently working on completing his dissertation project and Ph.D. program as he looks for available post-doctoral and/or User eXperience (UX) Research/Human Centered Design or Data Science and Analytics positions! Please contact him if you have any questions about his research or UX experience!!
+Christopher is currently employeed by Saint Louis University as a Non-Tenure Track Instructor/Assistant Professor while working on completing his dissertation project and Ph.D. program. In the future, he will be looking for available post-doctoral, academic, or User eXperience (UX) Research/Human Centered Design positions! Please contact him if you have any questions about his research or UX experience!!
 
 Check out his UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>.
 
