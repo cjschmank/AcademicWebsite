@@ -87,6 +87,6 @@ Additionally, since joining Andrew Conway, PhD at CGU he has focused on various 
 
 Christopher is currently employeed by Saint Louis University as a Non-Tenure Track Instructor/Assistant Professor while working on completing his dissertation project and Ph.D. program. In the future, he will be looking for available post-doctoral, academic, or User eXperience (UX) Research/Human Centered Design positions! Please contact him if you have any questions about his research or UX experience!!
 
-Check out his UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>.
+Check out his UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>!
 
 
