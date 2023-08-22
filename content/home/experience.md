@@ -46,7 +46,7 @@ experience:
     company_logo: 
     location: 'Supervisor: Ariella Lehrer, Ph.D'
     date_start: '2019-05-13'
-    date_end: ''
+    date_end: '2022-08-30'
     description: 
 
   - title: Graduate Research Assistant
