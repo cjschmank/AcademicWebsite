@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Statistics Consultant
+    company: Saint Louis University </br> Department of Psychology
+    company_url: 'https://www.slu.edu/arts-and-sciences/psychology/index.php'
+    company_logo: 
+    location: 'Supervisor: Jeremiah Weinstock, PhD '
+    date_start: '2023-08-16'
+    date_end: ''
+    description:
+
   - title: User Experience Research Assistant
     company: Reality Smash </br> Irvine, CA
     company_url: 'https://www.hitpointstudios.com/'
