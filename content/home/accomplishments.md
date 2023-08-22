@@ -29,7 +29,15 @@ item:
     description: 
     organization: Saint Louis University 
     organization_url: 
-    title: 'Instructor/Assistant Professor'
+    title: 'Univariate Statistics (PSY 5790) </br> Graduate Psychology </br> Instructor/Assistant Professor'
+    url: 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2023-08-16'
+    description: 
+    organization: Saint Louis University 
+    organization_url: 
+    title: 'Cognitive Psychology (PSY 3120) </br> Undergraduate Psychology </br> Instructor/Assistant Professor'
     url: 
   - certificate_url: 
     date_end: '2022-12-30'
