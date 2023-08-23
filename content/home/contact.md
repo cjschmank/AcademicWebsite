@@ -39,7 +39,7 @@ content:
     longitude: ''
   directions: 
   office_hours:
-  appointment_url: ''
+  appointment_url: 'https://calendly.com/christopher-j-schmank'
   contact_links:
     - icon: twitter
       icon_pack: fab
