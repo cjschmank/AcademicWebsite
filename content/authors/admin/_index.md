@@ -45,9 +45,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: '/#contact'
+#  - icon: envelope
+#    icon_pack: fas
+#    link: '/#contact'
+  - icon: calendar-plus
+    icon_pack: fa
+    link: 'https://calendly.com/christopher-j-schmank'   
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cjschmank
@@ -65,7 +68,7 @@ social:
     link: https://www.linkedin.com/in/christopherjschmank/
   - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Christopher_Schmanka
+    link: https://www.researchgate.net/profile/Christopher_Schmank-2
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
