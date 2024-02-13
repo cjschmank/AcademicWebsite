@@ -56,6 +56,14 @@ item:
     title: 'Cognitive Psychology (PSY 3120) </br> Undergraduate Psychology </br> Instructor/Assistant Professor'
     url:
   - certificate_url: 
+    date_end: '2023-05-01'
+    date_start: '2023-01-20'
+    description: 
+    organization: Claremont Graduate University 
+    organization_url: 
+    title: 'User Experience </br> Interaction Design and Usability Testing (PSY 350UT) </br> Graduate Teaching Assistant'
+    url:   
+  - certificate_url: 
     date_end: '2022-12-30'
     date_start: '2022-08-28'
     description: 
@@ -64,7 +72,7 @@ item:
     title: 'User Experience </br> Interaction Design and Usability Testing (PSY 350UT) </br> Graduate Teaching Assistant'
     url: 
   - certificate_url: 
-    date_end: '2022-08-15'
+    date_end: '2022-05-15'
     date_start: '2022-01-15'
     description: ''
     organization: Claremont Graduate University
@@ -88,7 +96,7 @@ item:
     title: 'Introductory Statistics for Psychological Science (PSYC 158) </br> Teaching Assistant/Lab Instructor'
     url: ''
   - certificate_url: 
-    date_end: '2020-08-20'
+    date_end: '2020-05-20'
     date_start: '2017-01-01'
     description: ''
     organization: Claremont McKenna College
