@@ -6,7 +6,7 @@ title: Christopher J. Schmank
 superuser: true
 
 # Role/position/tagline
-role: Instructor/Assistant Professor
+role: Statistics Consultant and Instructor/Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Applied Cognitive Psychology
       institution: Claremont Graduate University
-      year: Anticipated 2023
+      year: Anticipated 2024
     - course: MA in Psychological Sciences with Cognitive Concentration
       institution: University of Colorado Colorado Springs
       year: 2016
@@ -84,11 +84,11 @@ email: ''
 highlight_name: true
 ---
 
-Christopher J. Schmank, MA is a doctoral graduate student from Claremont Graduate University studying under the supervision of Andrew R.A. Conway, PhD. His previous research interests have included (1) the impact of psychosocial stress on language production and general cognitive functioning, (2) the impact of emotion regulation on language production and general cognitive functioning, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. 
+Christopher J. Schmank is the statistics consultant and instructor for the Department of Psychology at Saint Louis University. During the last year at Saint Louis University I administered ungergraduate courses in Cognitive Psychology (PSY 3120) and graduate courses in Applied Univariate Statistics (PSY 5790), Applied Multivariate Statistics (PSY 6500), and Psychometric Theory (PSY 5090). 
 
-Additionally, since joining Andrew Conway, PhD at CGU he has focused on various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to both explore and confirm the underlying structure of various measures of cognitive ability. 
+My research interests include (1) the impact of regulating psychosocial stress on language production and general cognitive abilities, (2) the impact of regulating emotion on general cognitive abilities, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. Additionally, while working with Dr. Andrew Conway, at Claremont Graduate University I focused on various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to use when exploring and/or confirming the underlying structure of measures of cognitive ability. 
 
-Christopher is currently employeed by Saint Louis University as a Non-Tenure Track Instructor/Assistant Professor while working on completing his dissertation project and Ph.D. program. In the future, he will be looking for available post-doctoral, academic, or User eXperience (UX) Research/Human Centered Design positions! Please contact him if you have any questions about his research or UX experience!!
+Please contact Christopher if you have any questions about his research or UX experience!!
 
 Check out his UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>!
 
