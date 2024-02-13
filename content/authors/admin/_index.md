@@ -84,12 +84,12 @@ email: ''
 highlight_name: true
 ---
 
-Christopher J. Schmank is the statistics consultant and instructor for the Department of Psychology at Saint Louis University. During the last year at Saint Louis University I administered ungergraduate courses in Cognitive Psychology (PSY 3120) and graduate courses in Applied Univariate Statistics (PSY 5790), Applied Multivariate Statistics (PSY 6500), and Psychometric Theory (PSY 5090). 
+Hello, my name is Christopher J. Schmank and I am currently the Statistics Consultant and an Instructor for the Department of Psychology at Saint Louis University. During the previous two semesters at Saint Louis University I taught ungergraduate courses in Cognitive Psychology (PSY 3120) and graduate courses in Applied Univariate Statistics (PSY 5790), Applied Multivariate Statistics (PSY 6500), and Psychometric Theory (PSY 5090). 
 
 My research interests include (1) the impact of regulating psychosocial stress on language production and general cognitive abilities, (2) the impact of regulating emotion on general cognitive abilities, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. Additionally, while working with Dr. Andrew Conway, at Claremont Graduate University I focused on various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to use when exploring and/or confirming the underlying structure of measures of cognitive ability. 
 
-Please contact Christopher if you have any questions about his research or UX experience!!
+Please contact me if you have any questions about my research or UX experience!!
 
-Check out his UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>!
+Check out my UX Portfolio: <a href="https://cjschmank-ux-portfolio.netlify.app" target="_blank"> CLICK HERE</a>!
 
 
