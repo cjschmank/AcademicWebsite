@@ -31,7 +31,7 @@ feature:
   - description: 
     icon: chalkboard-teacher
     icon_pack: fas
-    name: Teaching Assistant Experience
+    name: Teaching Experience
   - description: 
     icon: share-alt
     icon_pack: fas
