@@ -57,20 +57,12 @@ item:
     url:
   - certificate_url: 
     date_end: '2023-05-01'
-    date_start: '2023-01-20'
+    date_start: '2020-08-15'
     description: 
     organization: Claremont Graduate University 
     organization_url: 
     title: 'User Experience </br> Interaction Design and Usability Testing (PSY 350UT) </br> Graduate Teaching Assistant'
     url:   
-  - certificate_url: 
-    date_end: '2022-12-30'
-    date_start: '2022-08-28'
-    description: 
-    organization: Claremont Graduate University 
-    organization_url: 
-    title: 'User Experience </br> Interaction Design and Usability Testing (PSY 350UT) </br> Graduate Teaching Assistant'
-    url: 
   - certificate_url: 
     date_end: '2022-05-15'
     date_start: '2022-01-15'
@@ -79,14 +71,6 @@ item:
     organization_url: 
     title: 'User Experience </br> Strategy & Design (PSY 350UX) </br> Graduate Teaching Assistant'
     url: ''
-  - certificate_url: 
-    date_end: '2021-12-15'
-    date_start: '2020-08-15'
-    description: 
-    organization: Claremont Graduate University 
-    organization_url: 
-    title: 'User Experience </br> Interaction Design and Usability Testing (PSY 350UT) </br> Co-Graduate Teaching Assistant'
-    url: 
   - certificate_url: 
     date_end: '2021-08-18'
     date_start: '2020-08-21'
@@ -151,22 +135,7 @@ item:
     organization_url: 
     title: 'Social Science Statistics Tutor </br> Excel Mathematics Center'
     url: ''
-  - certificate_url: 
-    date_end: '2015-01-01'
-    date_start: '2014-08-01'
-    description: 
-    organization: University of Colorado Colorado Springs 
-    organization_url: 
-    title: 'Survey of Learning and Cognition (PSY 3130) </br> Teaching Assistant'
-    url: 
-  - certificate_url: 
-    date_end: '2015-01-01'
-    date_start: '2012-08-01'
-    description: ''
-    organization: University of Colorado Colorado Springs
-    organization_url: 
-    title: 'Undergraduate Research Methods (PSY 2110) </br> Teaching Assistant'
-    url: ''
+
 
 design:
   columns: '2'
