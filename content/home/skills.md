@@ -21,10 +21,6 @@ feature:
     icon_pack: fas
     name: Cognitive Science Methodology
   - description: 
-    icon: r-project
-    icon_pack: fab
-    name: R-Studio
-  - description: 
     icon: microscope
     icon_pack: fas
     name: Psychological Science Methodology
@@ -33,25 +29,29 @@ feature:
     icon_pack: fas
     name: Teaching Experience
   - description: 
-    icon: share-alt
+    icon: gamepad
     icon_pack: fas
-    name: Psychometric Network Analysis
+    name: UX/AR Research
+  - description: 
+    icon: open-access
+    icon_pack: ai
+    name: Open Source Advocate
+  - description: 
+    icon: r-project
+    icon_pack: fab
+    name: R-Studio
   - description: 
     icon: sitemap
     icon_pack: fas
     name: Latent Variable Modeling
   - description: 
-    icon: python
-    icon_pack: fab
-    name: Python Novice
-  - description: 
-    icon: gamepad
-    icon_pack: fas
-    name: UX/AR Research
-  - description: 
     icon: cat
     icon_pack: fas
     name: Cat Enthusiast
+  - description: 
+    icon: share-alt
+    icon_pack: fas
+    name: Psychometric Network Analysis
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
