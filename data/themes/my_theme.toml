@@ -8,16 +8,17 @@ name = "my_theme"
   # Menu
   menu_primary = "rgb(255, 255, 255)"
   menu_text = "#355E3B"
-  menu_text_active = "#2b2b2b"
-  menu_title = "#2b2b2b"
+  menu_text_active = "#4A4A4A"
+  menu_title = "#4A4A4A"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
+  home_section_odd = "rgb(247, 247, 247)"
+  home_section_even = "rgb(255, 255, 255)"
+  background = "rgb(247, 247, 247)"
 
 [dark]
   # Primary
   primary = "#00A36C"
-
+  
   link = "#00A36C"
   link_hover = "#00A36C"
