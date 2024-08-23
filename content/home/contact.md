@@ -28,7 +28,7 @@ content:
   email: chris.schmank@health.slu.edu
   phone: 314-977-7299
   address:
-    street: 3700 Lindell Blvd., Morrissey Hall, Room 2827
+    street: 3700 Lindell Blvd., Morrissey Hall
     city: St. Louis
     region: 
     postcode: '63108'

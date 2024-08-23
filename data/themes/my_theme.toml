@@ -5,6 +5,27 @@ name = "my_theme"
   # Primary
   primary = "#355E3B"
 
+  # Links  
+  link = "#355E3B"
+  link_hover = "#50355E"
+  link_decoration = "underline"
+
+  # Menu
+  menu_primary = "rgb(255, 255, 255)"
+  menu_text = "#50355E"
+  menu_text_active = "#4A4A4A"
+  menu_title = "#4A4A4A"
+
+  # Home sections
+  home_section_odd = "rgb(230, 235, 230)"
+  home_section_even = "rgb(204, 215, 206)"
+
+[dark]
+  # Links  
+  link = "#355E3B"
+  link_hover = "#50355E"
+  link_decoration = "underline"
+
   # Menu
   menu_primary = "rgb(255, 255, 255)"
   menu_text = "#355E3B"
@@ -12,13 +33,5 @@ name = "my_theme"
   menu_title = "#4A4A4A"
 
   # Home sections
-  home_section_odd = "rgb(247, 247, 247)"
-  home_section_even = "rgb(255, 255, 255)"
-  background = "rgb(247, 247, 247)"
-
-[dark]
-  # Primary
-  primary = "#00A36C"
-  
-  link = "#00A36C"
-  link_hover = "#00A36C"
+  home_section_odd = "#0A070C"
+  home_section_even = "#140D18"

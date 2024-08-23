@@ -8,7 +8,7 @@ authors:
 - Andrew R.A. Conway
 - Kristof Kovacs
 - Han Hao
-- Sara Anne Goring
+- Sara A. Goring
 - admin
 
 # Author notes (optional)

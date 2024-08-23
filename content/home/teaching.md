@@ -40,7 +40,7 @@ experience:
     date_end: ''
     description: 
  
-  - title: 'Applied Univariate Statistics'
+  - title: 'Applied Univariate Statistics (PSY 5790)'
     company: 'Saint Louis University </br> Department of Psychology Graduate Program'
     company_url: 'https://www.slu.edu/arts-and-sciences/psychology/index.php'
     company_logo: 
