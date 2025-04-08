@@ -25,11 +25,19 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
+    date_start: '2025-08-15'
+    description: 
+    organization: Saint Louis University
+    organization_url: 
+    title: 'Applications of Research Methods and Statistics (PSY 4060/4960) </br> Undergraduate Psychology </br> Assistant Professor'
+    url: 
+- certificate_url: 
+    date_end: ''
     date_start: '2024-01-16'
     description: 
     organization: Saint Louis University
     organization_url: 
-    title: 'Psychometric Theory (PSY 5090) </br> Graduate Psychology </br> Instructor/Assistant Professor'
+    title: 'Psychometric Theory (PSY 5090) </br> Graduate Psychology </br> Assistant Professor'
     url: 
   - certificate_url: 
     date_end: ''
@@ -37,7 +45,7 @@ item:
     description: 
     organization: Saint Louis University
     organization_url: 
-    title: 'Multivariate Statistics (PSY 6500) </br> Graduate Psychology </br> Instructor/Assistant Professor'
+    title: 'Multivariate Statistics (PSY 6500) </br> Graduate Psychology </br> Assistant Professor'
     url: 
   - certificate_url: 
     date_end: ''
@@ -45,7 +53,7 @@ item:
     description: 
     organization: Saint Louis University
     organization_url: 
-    title: 'Univariate Statistics (PSY 5790) </br> Graduate Psychology </br> Instructor/Assistant Professor'
+    title: 'Univariate Statistics (PSY 5790) </br> Graduate Psychology </br> Assistant Professor'
     url: 
   - certificate_url: 
     date_end: ''
@@ -53,7 +61,7 @@ item:
     description: 
     organization: Saint Louis University
     organization_url: 
-    title: 'Cognitive Psychology (PSY 3120) </br> Undergraduate Psychology </br> Instructor/Assistant Professor'
+    title: 'Cognitive Psychology (PSY 3120) </br> Undergraduate Psychology </br> Assistant Professor'
     url:
   - certificate_url: 
     date_end: '2023-05-01'

@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Christopher J. Schmank
+title: Christopher J. Schmank, PhD
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Statistics Consultant and Instructor/Assistant Professor
+role: Assistant Professor and Statistics Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -32,7 +32,7 @@ education:
   courses:
     - course: PhD in Applied Cognitive Psychology
       institution: Claremont Graduate University
-      year: Anticipated 2024
+      year: 2025
     - course: MA in Psychological Sciences with Cognitive Concentration
       institution: University of Colorado Colorado Springs
       year: 2016
@@ -84,7 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-Hello, my name is Christopher J. Schmank and I am currently the Statistics Consultant and an Instructor for the Department of Psychology at Saint Louis University. During the previous two semesters at Saint Louis University I taught ungergraduate courses in Cognitive Psychology (PSY 3120) and graduate courses in Applied Univariate Statistics (PSY 5790), Applied Multivariate Statistics (PSY 6500), and Psychometric Theory (PSY 5090). 
+Hello, my name is Christopher J. Schmank, PhD and I am currently an Assistant Professor and the Statistics Consultant for the Department of Psychology at Saint Louis University. During my time teaching at Saint Louis University I have taught two ungergraduate courses in Cognitive Psychology (PSY 3120) and Applications of Research Methods and Statistics (PSY 4060/4960). Additionally, I have taught several graduate courses in Applied Univariate Statistics (PSY 5790), Applied Multivariate Statistics (PSY 6500), and Psychometric Theory (PSY 5090). 
 
 My research interests include (1) the impact of regulating psychosocial stress on language production and general cognitive abilities, (2) the impact of regulating emotion on general cognitive abilities, and (3) the impact that healthy cognitive aging has on cognitive functioning under various conditions of psychosocial stress and/or emotional regulation. Additionally, while working with Dr. Andrew Conway, at Claremont Graduate University I focused on various statistical modeling techniques (e.g., latent variable modeling and psychometric network analysis) to use when exploring and/or confirming the underlying structure of measures of cognitive ability. 
 
