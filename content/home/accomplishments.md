@@ -32,7 +32,7 @@ item:
     organization_url: 
     title: 'Applications of Research Methods and Statistics (PSY 4060/4960) </br> Undergraduate Psychology </br> Assistant Professor'
     url: 
-- certificate_url: 
+  - certificate_url: 
     date_end: ''
     date_start: '2024-01-16'
     description: 
