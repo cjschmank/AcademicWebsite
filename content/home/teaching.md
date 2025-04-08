@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: 'Applications of Research Methods and Statistics (PSY 4060/4960)'
+    company: 'Saint Louis University </br> Department of Psychology Undergraduate Program'
+    company_url: 'https://www.slu.edu/arts-and-sciences/psychology/index.php'
+    company_logo: 
+    location: ''
+    date_start: '2025-08-16'
+    date_end: ''
+    description:
+
   - title: 'Psychometric Theory (PSY 5090)'
     company: 'Saint Louis University </br> Department of Psychology Graduate Program'
     company_url: 'https://www.slu.edu/arts-and-sciences/psychology/index.php'

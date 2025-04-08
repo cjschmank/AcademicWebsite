@@ -29,13 +29,8 @@ education:
   courses:
     - course: Ph.D. Applied Cognitive Psychology
       institution: Claremont Graduate University
-<<<<<<< HEAD
       year: 2025
     - course: MA in Psychological Sciences with Cognitive Concentration
-=======
-      year: Anticipated 2024
-    - course: M.A. Psychological Sciences (Cognition Concentration)
->>>>>>> 9e3256a8bdec98096df47fd4555a1e574a210640
       institution: University of Colorado Colorado Springs
       year: 2016
     - course: B.A. Psychology (Philosophy Minor)
@@ -86,11 +81,7 @@ email: ''
 highlight_name: true
 ---
 
-<<<<<<< HEAD
 Hello, my name is Christopher J. Schmank, PhD and I am currently an Assistant Professor and the Statistics Consultant for the Department of Psychology at Saint Louis University. During my time teaching at Saint Louis University I have taught two ungergraduate courses in Cognitive Psychology (PSY 3120) and Applications of Research Methods and Statistics (PSY 4060/4960). Additionally, I have taught several graduate courses in Applied Univariate Statistics (PSY 5790), Applied Multivariate Statistics (PSY 6500), and Psychometric Theory (PSY 5090). 
-=======
-Hello, my name is **Christopher J. Schmank** and I am an Instructor and the Statistics Consultant for the Department of Psychology at Saint Louis University.
->>>>>>> 9e3256a8bdec98096df47fd4555a1e574a210640
 
 My **primary research interests** include:
 

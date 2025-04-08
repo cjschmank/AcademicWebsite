@@ -3,11 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-<<<<<<< HEAD
 title: Christopher J. Schmank, PhD # Website name
-=======
-title: Christopher Schmank's Academic Website # Website name
->>>>>>> 9e3256a8bdec98096df47fd4555a1e574a210640
 baseURL: 'cjschmank.netlify.app' # Website URL
 
 ############################
