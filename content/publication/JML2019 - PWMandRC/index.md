@@ -5,7 +5,7 @@ title: 'Psychometric models of individual differences in reading comprehension: 
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Sara Anne Goring
+- Sara A. Goring
 - admin
 - Michael J. Kane
 - Andrew R.A. Conway

@@ -7,7 +7,7 @@ widget: featurette
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 30
 
 title: Skills
 subtitle:
@@ -19,19 +19,19 @@ feature:
   - description: 
     icon: cogs
     icon_pack: fas
-    name: Cognitive Science Methodology
+    name: Cognitive Science Research
   - description: 
     icon: microscope
     icon_pack: fas
-    name: Psychological Science Methodology
+    name: Psychological Science Methods
   - description: 
     icon: chalkboard-teacher
     icon_pack: fas
-    name: Teaching Experience
+    name: Statistics Teaching Experience
   - description: 
     icon: gamepad
     icon_pack: fas
-    name: UX/AR Research
+    name: Human Centered Design/UX 
   - description: 
     icon: open-access
     icon_pack: ai

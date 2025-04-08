@@ -6,7 +6,7 @@ title: 'Investigating the structure of Intelligence using latent variable and ps
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Sara Anne Goring
+- Sara A. Goring
 - Kristof Kovacs
 - Andrew R.A. Conway
 
