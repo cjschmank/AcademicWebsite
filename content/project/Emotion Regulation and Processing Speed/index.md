@@ -1,6 +1,6 @@
 ---
-title: Do Emotions Age Nicely (DEAN)?
-summary: Grant funded collaboration between Lise Abrams, PhD, Andrew Conway, PhD and Christopher J. Schmank, MA on Aging, Emotion Regulation, and Processing Speed.
+title: Does Being Inhibiting Emotions Impair Cognitive Ability?
+summary: Grant funded collaboration between Lise Abrams, PhD, Andrew Conway, PhD and Christopher J. Schmank, PhD on Aging, Emotion Regulation, and Processing Speed.
 tags:
 - Cognitive Aging
 - Rationality
@@ -32,8 +32,8 @@ url_video: ''
 slides: ''
 ---
 
-As human beings chronologically age we see relative declines in processing speed, executive functioning, inhibitory control, and working memory; however, despite the declines tantamount in aging older adults are much more proficient at regulating their emotions and emotional outbursts. The current project attempts to understand whether emotion regulation, specifically the suppression of negative emotions, is cognitively taxing to young adult participants between the ages of 18-30 and older adult participants above the age of 60.  
+As human beings chronologically age we see relative declines in processing speed, executive functioning, inhibitory control, and working memory; however, despite these declines  in aging older adults are much more proficient at regulating their emotions and emotional behaviors. The current project was conducted to understand whether effortful emotion regulation, specifically the suppression of negative emotion, was more cognitively taxing for young adult participants (between the ages of 18-30) than for older adult participants (above the age of 60).  
 
-To date we have collected data from 108 young adults and 91 older adults using the CloudResearch online participant recruitment system. This project is one of two side projects of the DARCI Project and will function as my PhD Dissertation research topic. In this project we specifically pose the research question: Does aging impact the effect of Emotion Regulation on Processing Speed task performance? The idea behind this research is that regulation of one's emotions, especially suppression of an emotional response, is a cognitively taxing process that involves constant monitoring and updating. Thus, while suppression of emotions is occurring subsequent and concurrent task performance should suffer. Also, since as this is an aging study we hypothesize different outcomes for older adults compared to young adults.
+Data was collected online using CloudResearch and Prolific. This dissertation project was completed as one of two side projects of the DARCI Project and functioned as my PhD dissertation research topic. Research question: Does aging impact the effect of Emotion Regulation on Processing Speed task performance? The impetus behind this research was that regulation of one's emotions, especially suppression of an emotional response, is a cognitively taxing process that involves constant monitoring and updating. Thus, while suppression of emotions occurrs subsequent and concurrent cognitive task performance should suffer due to shared mental resours. Also, since as this is an aging study I hypothesized different outcomes for older adults compared to young adults--specifically that younger adults would show greater degrees of impairment in subsequent cognitive tasks due to effortful emotion regulation usage.
 
-This research project is ongoing and will data collection will continue out of New Mexico State University and online via CloudResearch.
+Dissertation was successfully defended on April 3rd, 2025 and an eventual manuscript will be developed from the research.
