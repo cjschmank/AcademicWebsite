@@ -19,9 +19,9 @@ image:
   focal_point: Smart
 
 links:
-url_code: 'https://osf.io/bu2nf/'
-url_pdf: ''
-url_slides: ''
+url_code: 'https://osf.io/5mj4k'
+url_pdf: 'https://osf.io/wuaxy'
+url_slides: 'https://osf.io/dn2k5'
 url_video: ''
 
 # Slides (optional).
