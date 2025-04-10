@@ -1,5 +1,5 @@
 ---
-title: Does Being Inhibiting Emotions Impair Cognitive Ability?
+title: Does Inhibiting Emotions Impair Cognitive Ability?
 summary: Grant funded collaboration between Lise Abrams, PhD, Andrew Conway, PhD and Christopher J. Schmank, PhD on Aging, Emotion Regulation, and Processing Speed.
 tags:
 - Cognitive Aging
