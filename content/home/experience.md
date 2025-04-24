@@ -64,7 +64,7 @@ experience:
     company_logo: 
     location: 'Supervisor: Andrew R.A. Conway, PhD'
     date_start: '2017-08-01'
-    date_end: ''
+    date_end: '2025-05-17'
     description: 
 
   - title: Specialized Consultant
