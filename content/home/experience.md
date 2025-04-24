@@ -31,6 +31,15 @@ experience:
     date_end: ''
     description:
 
+  - title: Graduate Research Assistant
+    company: CALIBER Lab </br> Claremont Graduate University
+    company_url: 'http://andrewraconway.squarespace.com/'
+    company_logo: 
+    location: 'Supervisor: Andrew R.A. Conway, PhD'
+    date_start: '2017-08-01'
+    date_end: '2025-05-17'
+    description: 
+
   - title: User Experience Research Assistant
     company: Reality Smash </br> Irvine, CA
     company_url: 'https://www.hitpointstudios.com/'
@@ -56,15 +65,6 @@ experience:
     location: 'Supervisor: Ariella Lehrer, Ph.D'
     date_start: '2019-05-13'
     date_end: '2022-08-30'
-    description: 
-
-  - title: Graduate Research Assistant
-    company: CALIBER Lab </br> Claremont Graduate University
-    company_url: 'http://andrewraconway.squarespace.com/'
-    company_logo: 
-    location: 'Supervisor: Andrew R.A. Conway, PhD'
-    date_start: '2017-08-01'
-    date_end: '2025-05-17'
     description: 
 
   - title: Specialized Consultant
