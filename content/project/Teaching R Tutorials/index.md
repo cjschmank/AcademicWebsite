@@ -6,7 +6,7 @@ tags:
 - R Studio
 - Psychological Stats
 - Teaching Tutorials
-date: '2019-12-03T00:00:00Z'
+date: '2016-12-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
