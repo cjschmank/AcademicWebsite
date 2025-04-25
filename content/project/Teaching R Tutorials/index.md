@@ -1,6 +1,6 @@
 ---
 title: Introduction to R
-summary: This is an ongoing, side-project motivated to help undergraduate psychology students learn R.
+summary: Academic side-project motivated to help psychology students learn R.
 tags:
 - Statistical Analysis
 - R Studio
@@ -44,8 +44,9 @@ This initial tutorial walks students through how to use Import Dataset feature o
 
 Contact Information
 
-Christopher J. Schmank, M.A.
+Christopher J. Schmank, PhD
 
 Personal website: cjschmank.netlify.app
 
-Applied Cognitive/Quantitative Psychology PhD Graduate student at Claremont Graduate University
+Assistant Professor and Statistical Consultant
+Saint Louis University

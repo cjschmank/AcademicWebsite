@@ -1,6 +1,6 @@
 ---
-title: Cognitive Aging and Psychometric Modeling
-summary: This poster was scheduled to be presented at the Cognitive Aging Conference (April, 2020), which was postponed due to the COVID-19 global pandemic.
+title: Age Differences Among Psychometric Models of Intelligence 
+summary: Poster was accepted for presentation at the Cognitive Aging Conference (April, 2020) that was postponed and eventually canceled due to the COVID-19 global pandemic.
 tags:
 - Latent Variable Modeling
 - Psychometric Network Analysis
@@ -8,17 +8,17 @@ tags:
 - Cognitive Aging
 - Hungarian WAIS-IV
 - Research Projects
-date: '2020-05-19T00:00:00Z'
+date: '2020-04-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
 image:
-  caption: Snapshot of Exploratory (Young Adult) and Confirmatory (Older Adult) Networks
+  caption: Snapshot of Exploratory (Young Adult) and Confirmatory (Older Adult) Psychometric Networks
   focal_point: Smart
 
 links:
-url_code: 'https://osf.io/q3zmk/'
+url_code: ''
 url_pdf: 'https://osf.io/pwxhs/'
 url_slides: ''
 url_video: ''
