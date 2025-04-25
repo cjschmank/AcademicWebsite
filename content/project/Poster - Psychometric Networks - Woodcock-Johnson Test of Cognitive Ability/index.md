@@ -1,5 +1,5 @@
 ---
-title: Psychometric Network Model: WJ Tests of Cognitive Ability
+title: Psychometric Network Model - WJ Tests of Cognitive Ability
 summary: Psychometric network analysis conducted on Woodcock-Johnson cognitive ability test battery presented for the Association of Psychological Science Conference in 2018. 
 tags:
 - Process Overlap Theory

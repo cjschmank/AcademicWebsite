@@ -1,5 +1,5 @@
 ---
-title: Psychometric Network Model: WAIS-IV
+title: Psychometric Network Model - WAIS-IV
 summary: Psychometric network analysis of the Wechsler Adult Intelligence Scale. Publication accepted by Journal of Intelligence (2019) 
 tags:
 - Process Overlap Theory
