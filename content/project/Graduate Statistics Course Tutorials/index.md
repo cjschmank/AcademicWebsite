@@ -7,17 +7,17 @@ tags:
 - Multivariate Statistics
 - Univariate Statistics
 - Teaching Tutorials
-date: '2025-04-03T00:00:00Z'
+date: '2025-05-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://osf.io/xhm37/'
+external_link: ''
 
 image:
   caption: Snapshot of R Data Screening and Cleaning Tutorial
   focal_point: Smart
 
 links:
-url_code: ''
+url_code: 'https://osf.io/xhm37/'
 url_pdf: ''
 url_slides: ''
 url_video: ''
