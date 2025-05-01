@@ -48,7 +48,7 @@ social:
   - icon: calendar-plus
     icon_pack: fa
     link: 'https://calendly.com/christopher-j-schmank'   
-  - icon: fa-bluesky
+  - icon: 'bluesky'
     icon_pack: fab
     link: https://bsky.app/profile/cjschmank.bsky.social/ 
   - icon: twitter
