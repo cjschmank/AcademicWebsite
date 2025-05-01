@@ -45,6 +45,10 @@ content:
       icon_pack: fa
       name: 'Schedule an Appointment'
       link: 'https://calendly.com/christopher-j-schmank'
+    - icon: bluesky
+      icon_pack: fab
+      name: Follow on Blue Sky
+      link: 'https://bsky.app/profile/cjschmank.bsky.social '
     - icon: twitter
       icon_pack: fab
       name: Follow on Twitter
@@ -68,7 +72,7 @@ content:
     - icon: github
       icon_pack: fab
       name: Find on GitHub
-      link: https://github.com/cjschmank/'
+      link: https://github.com/cjschmank'
 
 design:
   columns: '2'
