@@ -49,7 +49,7 @@ social:
     icon_pack: fa
     link: 'https://calendly.com/christopher-j-schmank'   
   - icon: butterfly
-    icon_pack: emojis
+    icon_pack: ''
     link: https://bsky.app/profile/cjschmank.bsky.social/ 
   - icon: twitter
     icon_pack: fab
@@ -60,9 +60,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/cjschmank
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en  
+#  - icon: google-scholar
+#    icon_pack: ai
+#    link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en  
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christopherjschmank/
