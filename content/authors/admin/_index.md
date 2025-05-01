@@ -30,7 +30,7 @@ education:
     - course: Ph.D. Applied Cognitive Psychology
       institution: Claremont Graduate University
       year: 2025
-    - course: MA in Psychological Sciences with Cognitive Concentration
+    - course: M.A. Psychological Science (Cognitive Concentration)
       institution: University of Colorado Colorado Springs
       year: 2016
     - course: B.A. Psychology (Philosophy Minor)
@@ -48,6 +48,9 @@ social:
   - icon: calendar-plus
     icon_pack: fa
     link: 'https://calendly.com/christopher-j-schmank'   
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/cjschmank.bsky.social 
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cjschmank
@@ -59,13 +62,13 @@ social:
     link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/cjschmank/
+    link: https://github.com/cjschmank
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christopherjschmank/
   - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Christopher_Schmank-2
+    link: https://www.researchgate.net/profile/Christopher-Schmank-2/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
