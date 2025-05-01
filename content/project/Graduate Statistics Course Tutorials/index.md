@@ -7,6 +7,7 @@ tags:
 - Multivariate Statistics
 - Univariate Statistics
 - Teaching Tutorials
+- Applied Projects
 date: '2025-05-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
