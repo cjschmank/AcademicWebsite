@@ -45,10 +45,6 @@ content:
       icon_pack: fa
       name: 'Schedule an Appointment'
       link: 'https://calendly.com/christopher-j-schmank'
-    - icon: butterfly
-      icon_pack: emoji
-      name: Follow on Blue Sky
-      link: 'https://bsky.app/profile/cjschmank.bsky.social/'
     - icon: twitter
       icon_pack: fab
       name: Follow on Twitter
