@@ -74,7 +74,7 @@ experience:
     company_logo: 
     location: ''
     date_start: '2023-08-16'
-    date_end: ''
+    date_end: '2025-05-13'
     description: 
 
   - title: 'User Experience: Interaction Design and Usability Testing (PSY 350UT)'
