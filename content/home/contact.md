@@ -48,7 +48,7 @@ content:
     - icon: bluesky
       icon_pack: fab
       name: Follow on Blue Sky
-      link: 'https://bsky.app/profile/cjschmank.bsky.social '
+      link: 'https://bsky.app/profile/cjschmank.bsky.social/'
     - icon: twitter
       icon_pack: fab
       name: Follow on Twitter

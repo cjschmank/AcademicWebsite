@@ -49,7 +49,7 @@ social:
     icon_pack: fa
     link: 'https://calendly.com/christopher-j-schmank'   
   - icon: bluesky
-    icon_pack: fa-brands
+    icon_pack: fab
     link: https://bsky.app/profile/cjschmank.bsky.social/ 
   - icon: twitter
     icon_pack: fab
@@ -57,13 +57,12 @@ social:
   - icon: osf
     icon_pack: ai
     link: https://osf.io/b57sp/
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
     link: https://github.com/cjschmank
-  - icon: linkedin
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christopherjschmank/
   - icon: researchgate
