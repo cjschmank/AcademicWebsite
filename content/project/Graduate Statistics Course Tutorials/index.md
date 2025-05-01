@@ -8,7 +8,7 @@ tags:
 - Univariate Statistics
 - Teaching Tutorials
 - Applied Projects
-date: '2025-05-03T00:00:00Z'
+date: '2025-04-22T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
