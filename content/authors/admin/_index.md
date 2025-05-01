@@ -62,7 +62,8 @@ social:
     link: https://github.com/cjschmank
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en  - icon: linkedin
+    link: https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en  
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/christopherjschmank/
   - icon: researchgate
