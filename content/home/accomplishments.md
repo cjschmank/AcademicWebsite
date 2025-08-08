@@ -26,7 +26,7 @@ date_format: Jan 2006
 item:
   - certificate_url: 
     date_end: ''
-    date_start: '2025-08-15'
+    date_start: '2025-08-21'
     description: 
     organization: Saint Louis University
     organization_url: 
@@ -65,6 +65,14 @@ item:
     title: 'Cognitive Psychology (PSY 3120) </br> Undergraduate Psychology </br> Assistant Professor'
     url:
   - certificate_url: 
+    date_end: '2023-05-13'
+    date_start: '2023-01-15'
+    description: 
+    organization: Claremont Graduate University 
+    organization_url: 
+    title: 'User Experience </br> Research Methods (PSY 350UR) </br> Graduate Teaching Assistant'
+    url:
+  - certificate_url: 
     date_end: '2023-05-01'
     date_start: '2020-08-15'
     description: 
@@ -73,77 +81,14 @@ item:
     title: 'User Experience </br> Interaction Design and Usability Testing (PSY 350UT) </br> Graduate Teaching Assistant'
     url:   
   - certificate_url: 
-    date_end: '2022-05-15'
-    date_start: '2022-01-15'
+    date_end: '2022-08-15'
+    date_start: '2021-01-15'
     description: ''
     organization: Claremont Graduate University
     organization_url: 
-    title: 'User Experience </br> Strategy & Design (PSY 350UX) </br> Graduate Teaching Assistant'
+    title: 'User Experience </br> Design and Strategy (PSY 350UX) </br> Graduate Teaching Assistant'
     url: ''
-  - certificate_url: 
-    date_end: '2021-08-18'
-    date_start: '2020-08-21'
-    description: ''
-    organization: Pomona College
-    organization_url: 
-    title: 'Introductory Statistics for Psychological Science (PSYC 158) </br> Teaching Assistant/Lab Instructor'
-    url: ''
-  - certificate_url: 
-    date_end: '2020-05-20'
-    date_start: '2017-01-01'
-    description: ''
-    organization: Claremont McKenna College
-    organization_url: 
-    title: 'Introduction to Statistics for Psychology (PSYC 109) </br> Teaching Assistant'
-    url: ''
-  - certificate_url: 
-    date_end: '2019-12-21'
-    date_start: '2019-10-28'
-    description: 
-    organization: Claremont Graduate University 
-    organization_url: 
-    title: 'Structural Equation Modeling (PSY 315H) </br> Graduate Teaching Assistant'
-    url: 
-  - certificate_url: 
-    date_end: '2019-10-26'
-    date_start: '2019-09-03'
-    description: ''
-    organization: Claremont Graduate University
-    organization_url: 
-    title: 'Factor Analysis (PSY 315F) </br> Graduate Teaching Assistant'
-    url: ''
-  - certificate_url: 
-    date_end: '2019-08-01'
-    date_start: '2019-05-01'
-    description: ''
-    organization: Claremont Graduate University
-    organization_url: 
-    title: 'Quantitative Analysis & Statistics for Evaluation (EVAL 320-Online) </br> Graduate Teaching Assistant'
-    url: ''
-  - certificate_url: 
-    date_end: '2019-08-01'
-    date_start: '2019-05-01'
-    description: 
-    organization: Claremont Graduate University 
-    organization_url: 
-    title: 'Mixed Methods in Evaluation & Applied Research (EVAL 330-Online) </br> Graduate Teaching Assistant'
-    url: 
-  - certificate_url: 
-    date_end: '2021-08-01'
-    date_start: '2017-01-01'
-    description: ''
-    organization: Claremont McKenna College
-    organization_url: 
-    title: 'Psychology Senior Research Seminar (PSYC 198) </br> Statistics Consultant'
-    url: ''
-  - certificate_url: 
-    date_end: '2016-08-01'
-    date_start: '2014-08-01'
-    description: ''
-    organization: University of Colorado Colorado Springs
-    organization_url: 
-    title: 'Social Science Statistics Tutor </br> Excel Mathematics Center'
-    url: ''
+
 
 
 design:

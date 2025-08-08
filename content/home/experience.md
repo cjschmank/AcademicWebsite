@@ -67,24 +67,6 @@ experience:
     date_end: '2022-08-30'
     description: 
 
-  - title: Specialized Consultant
-    company: Accenture Talent and Innovation Lab </br> Claremont Graduate University
-    company_url: ''
-    company_logo: 
-    location: 'Supervisor: Christopher Chen, MA'
-    date_start: '2019-03-01'
-    date_end: '2019-09-03'
-    description: 
-
-  - title: Research Associate
-    company: Accenture Talent and Innovation Lab </br> Claremont Graduate University
-    company_url: ''
-    company_logo: 
-    location: 'Supervisor: Christopher Chen, MA'
-    date_start: '2018-08-01'
-    date_end: '2019-03-01'
-    description: 
-
   - title: Graduate Research Assistant
     company: Language and Memory Problems Lab </br> University of Colorado Colorado Springs
     company_url: ''

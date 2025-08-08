@@ -74,7 +74,7 @@ experience:
     company_logo: 
     location: ''
     date_start: '2023-08-16'
-    date_end: '2025-05-13'
+    date_end: ''
     description: 
 
   - title: 'User Experience: Interaction Design and Usability Testing (PSY 350UT)'
@@ -95,76 +95,13 @@ experience:
     date_end: '2022-12-20'
     description: 
 
-  - title: 'Introductory Statistics for Psychological Science (PSYC 158)'
-    company: 'Pomona College </br> Teaching Assistant/Lab Instructor'
-    company_url: 'https://www.pomona.edu/academics/departments/psychological-science'
-    company_logo: 
-    location: ''
-    date_start: '2020-08-01'
-    date_end: '2021-12-20'
-    description: 
-
-  - title: 'Introduction to Statistics for Psychology (PSYC 109)'
-    company: 'Claremont McKenna College  </br> Teaching Assistant'
-    company_url: 'https://www.cmc.edu/psychological-science'
-    company_logo: 
-    location: ''
-    date_start: '2017-01-01'
-    date_end: '2021-12-20'
-    description: 
-
-  - title: 'Psychology Senior Research Seminar (PSYC 198)'
-    company: 'Claremont McKenna College </br> Statistics Consultant'
-    company_url: 'https://www.cmc.edu/psychological-science'
-    company_logo: 
-    location: ''
-    date_start: '2017-01-01'
-    date_end: '2021-12-20'
-    description: 
-
-  - title: 'Structural Equation Modeling (PSY 315H)'
+  - title: 'User Experience: Research Methods (PSY 350UR)'
     company: 'Claremont Graduate University </br> Graduate Teaching Assistant'
-    company_url: 'https://www.cgu.edu/academics/program/phd-applied-cognitive-psychology/'
+    company_url: 'https://www.cgu.edu/academics/program/applied-cognitive-psychology-user-experience/'
     company_logo: 
     location: ''
-    date_start: '2019-08-01'
-    date_end: '2021-12-20'
-    description: 
-
-  - title: 'Factor Analysis (PSY 315F)'
-    company: 'Claremont Graduate University </br> Graduate Teaching Assistant'
-    company_url: 'https://www.cgu.edu/academics/program/phd-applied-cognitive-psychology/'
-    company_logo: 
-    location: ''
-    date_start: '2019-08-01'
-    date_end: '2021-12-20'
-    description: 
-
-  - title: 'Quantitative Analysis & Statistics for Evaluation (EVAL 320-Online)'
-    company: 'Claremont Graduate University </br> Graduate Teaching Assistant'
-    company_url: 'https://www.cgu.edu/academics/program/evaluation-applied-research-methods/'
-    company_logo: 
-    location: ''
-    date_start: '2019-08-01'
-    date_end: '2019-05-01'
-    description: 
-
-  - title: 'Mixed Methods in Evaluation & Applied Research (EVAL 330-Online)'
-    company: 'Claremont Graduate University </br> Graduate Teaching Assistant'
-    company_url: 'https://www.cgu.edu/academics/program/evaluation-applied-research-methods/'
-    company_logo: 
-    location: ''
-    date_start: '2019-08-01'
-    date_end: '2019-05-01'
-    description: 
-
-  - title: 'Social Science Statistics Tutor </br> Excel Mathematics Center'
-    company: 'University of Colorado Colorado Springs'
-    company_url: 'https://mathcenter.uccs.edu/'
-    company_logo: 
-    location: ''
-    date_start: '2014-08-01'
-    date_end: '2016-12-20'
+    date_start: '2023-01-15'
+    date_end: '2023-05-13'
     description: 
 
 design:
