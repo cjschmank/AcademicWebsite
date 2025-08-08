@@ -1,5 +1,5 @@
 ---
-title: Psychometric Network of Reading Comprehension Publication
+title: Psychometric Network of Reading Comprehension
 summary: This poster and publication comes from the culmination of a first year project completed by the Caliber Lab; submitted and accepted for publication by the Journal of Memory and Language. 
 tags:
 - Reading Comprehension
