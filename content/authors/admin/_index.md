@@ -14,7 +14,7 @@ organizations:
     url: https://www.slu.edu/arts-and-sciences/psychology/faculty/christopher-schmank.php
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include the impact of psychosocial stress and emotional regulation on various cognitive abilities (i.e., processing speed, rationality, and language production). My additional skills include statistical modeling techniques using latent variable and/or psychometric network analyses. I am also experienced in user experience strategy and research including A/B testing, rapid prototyping, and competitive analyses.
+bio: My research interests include the impact of psychosocial stress and emotional regulation on various cognitive abilities (i.e., processing speed, rationality, and language production). My additional skills include statistical modeling techniques using latent variable and/or psychometric network analyses. I am also experienced in user experience (UX) strategy and research including A/B testing, rapid prototyping, and competitive analyses.
 
 # Interests to show in About widget
 interests:
@@ -81,7 +81,11 @@ email: ''
 highlight_name: true
 ---
 
-Hello, my name is Christopher J. Schmank, PhD and I am currently an Assistant Professor and the Statistics Consultant for the Department of Psychology at Saint Louis University. During my time teaching at Saint Louis University I have taught two ungergraduate courses in Cognitive Psychology (PSY 3120) and Applications of Research Methods and Statistics (PSY 4060/4960). Additionally, I have taught several graduate courses in Applied Univariate Statistics (PSY 5790), Applied Multivariate Statistics (PSY 6500), and Psychometric Theory (PSY 5090). 
+Hello!
+
+My name is Christopher J. Schmank, PhD and I am an Assistant Professor and the Statistics Consultant for the Department of Psychology at Saint Louis University. Since joining Saint Louis University in 2023 I have taught ungergraduate courses in Cognitive Psychology (PSY 3120) and graduate courses in Psychometric Theory (PSY 5090), Applied Univariate (PSY 5790) and Multivariate Statistics (PSY 6500).
+
+I am currently preparing to teach Applications of Research Methods and Statistics (PSY 4060) this Fall (2025) and Advanced Research Methods and Statistics (PSY 4960) next Spring (2026). 
 
 My **primary research interests** include:
 
