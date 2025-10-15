@@ -17,41 +17,41 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: 
-    icon: cogs
+    icon: user-gear
     icon_pack: fas
-    name: Cognitive Science Research
+    name: Cognitive Psychology / </br> User Experience </br> Research Methodologist
   - description: 
     icon: microscope
     icon_pack: fas
-    name: Psychological Science Methods
-  - description: 
-    icon: chalkboard-teacher
-    icon_pack: fas
-    name: Statistics Teaching Experience
-  - description: 
-    icon: gamepad
-    icon_pack: fas
-    name: Human Centered Design/UX 
+    name: Psychological Science Background
   - description: 
     icon: open-access
     icon_pack: ai
-    name: Open Source Advocate
+    name: Open Access Advocate </br> Open Sources / </br> Open Data 
   - description: 
-    icon: r-project
-    icon_pack: fab
-    name: R-Studio
-  - description: 
-    icon: sitemap
+    icon: user-secret
     icon_pack: fas
-    name: Latent Variable Modeling
+    name: Statistics Consultant / </br> Data Sleuth
   - description: 
     icon: cat
     icon_pack: fas
-    name: Cat Enthusiast
+    name: Cat Enthusiast </br> (Bartleby, Indi, & Buddy)
+  - description: 
+    icon: gamepad
+    icon_pack: fas
+    name: Human Centered / </br> User Experience </br> Strategy & Design
+  - description: 
+    icon: sitemap
+    icon_pack: fas
+    name: 'Latent Variable Modeling: Exploratory, Confirmatory, and Structural Equation'
+  - description: 
+    icon: r-project
+    icon_pack: fab
+    name: R-Studio User 
   - description: 
     icon: share-alt
     icon_pack: fas
-    name: Psychometric Network Analysis
+    name: Psychometric Network / </br> Exploratory Graph Analysis
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

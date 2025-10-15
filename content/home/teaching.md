@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Teaching Experience
+title: Currently Teaching. . . 
 subtitle:
 
 # Date format for experience
@@ -77,33 +77,6 @@ experience:
     date_end: '2025-05-15'
     description: 
 
-  - title: 'User Experience: Interaction Design and Usability Testing (PSY 350UT)'
-    company: 'Claremont Graduate University </br> Graduate Teaching Assistant'
-    company_url: 'https://www.cgu.edu/academics/program/applied-cognitive-psychology-user-experience/'
-    company_logo: 
-    location: ''
-    date_start: '2020-08-01'
-    date_end: '2023-05-15'
-    description: 
-
-  - title: 'User Experience: Strategy & Design (PSY 350UX)'
-    company: 'Claremont Graduate University </br> Graduate Teaching Assistant'
-    company_url: 'https://www.cgu.edu/academics/program/applied-cognitive-psychology-user-experience/'
-    company_logo: 
-    location: ''
-    date_start: '2021-01-15'
-    date_end: '2022-12-20'
-    description: 
-
-  - title: 'User Experience: Research Methods (PSY 350UR)'
-    company: 'Claremont Graduate University </br> Graduate Teaching Assistant'
-    company_url: 'https://www.cgu.edu/academics/program/applied-cognitive-psychology-user-experience/'
-    company_logo: 
-    location: ''
-    date_start: '2023-01-15'
-    date_end: '2023-05-13'
-    description: 
-
 design:
-  columns: '2'
+  columns: '1'
 ---

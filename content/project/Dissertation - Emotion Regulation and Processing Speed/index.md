@@ -8,8 +8,8 @@ tags:
 - Fluid Intelligence
 - Processing Speed
 - Emotion Regulation
-- Research Projects
-date: '2025-04-21T00:00:00Z'
+- Experimental Research
+date: '2025-04-03T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

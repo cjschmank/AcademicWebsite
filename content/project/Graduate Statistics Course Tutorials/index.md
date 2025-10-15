@@ -1,14 +1,13 @@
 ---
 title: Univariate and Multivariate Statistics Tutorials in R
-summary: Academic project motivated to help graduate psychology students learn to apply statistical analyses in R.
+summary: Academic project as statistics instructor and consultant at Saint Louis University motivated to help all psychology students learn to apply statistical analyses in R.
 tags:
 - Statistical Analysis
 - R Studio
 - Multivariate Statistics
 - Univariate Statistics
 - Teaching Tutorials
-- Applied Projects
-date: '2025-04-22T00:00:00Z'
+date: '2023-08-16T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

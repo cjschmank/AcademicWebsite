@@ -22,6 +22,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Faculty Research Collaborator 
+    company: CANA Laboratory </br> Saint Louis University
+    company_url: 'https://waringlab.weebly.com/'
+    company_logo: 
+    location: 'Lab Director: Jill Waring, PhD '
+    date_start: '2025-04-01'
+    date_end: ''
+    description:
+
   - title: Statistics Consultant
     company: Saint Louis University </br> Department of Psychology
     company_url: 'https://www.slu.edu/arts-and-sciences/psychology/index.php'
@@ -71,7 +80,7 @@ experience:
     company: Language and Memory Problems Lab </br> University of Colorado Colorado Springs
     company_url: ''
     company_logo: 
-    location: 'Supervisor: Lori E. James, PhD'
+    location: 'Lab Director: Lori E. James, PhD'
     date_start: '2012-08-01'
     date_end: '2017-08-01'
     description: 
@@ -80,7 +89,7 @@ experience:
     company: Cognitive Neuroscience of Stress Lab </br> Saint Louis University
     company_url: ''
     company_logo: 
-    location: 'Supervisor: Tony W. Buchanan, PhD'
+    location: 'Lab Director: Tony W. Buchanan, PhD'
     date_start: '2008-12-01'
     date_end: '2011-12-01'
     description: 
@@ -89,7 +98,7 @@ experience:
     company: Brain, Learning, and Cognition Lab </br> Saint Louis University
     company_url: ''
     company_logo: 
-    location: 'Supervisor: Christopher Conway, PhD'
+    location: 'Lab Director: Christopher Conway, PhD'
     date_start: '2009-08-01'
     date_end: '2011-06-01'
     description: 
@@ -98,10 +107,10 @@ experience:
     company: Cognition and Memory Lab </br> Saint Louis University
     company_url: ''
     company_logo: 
-    location: 'Supervisor: Donna LaVoie, PhD and Kethera Fogler, PhD'
+    location: 'Lab Director: Donna LaVoie, PhD and Kethera Fogler, PhD (Graduate Student)'
     date_start: '2008-01-01'
     date_end: '2011-05-01'
     description: 
 design:
-  columns: '2'
+  columns: '1'
 ---
