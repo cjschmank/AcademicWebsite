@@ -3,11 +3,11 @@ name = "my_theme"
 
 [light]
   # Primary
-  primary = "#355E3B"
+  primary = "#3E5641"
 
   # Links  
-  link = "#355E3B"
-  link_hover = "#50355E"
+  link = "#3E5641"
+  link_hover = "#004D61"
   link_decoration = "underline"
 
   # Menu
@@ -22,16 +22,16 @@ name = "my_theme"
 
 [dark]
   # Links  
-  link = "#355E3B"
-  link_hover = "#50355E"
+  link = "#3E5641"
+  link_hover = "#004D61"
   link_decoration = "underline"
 
   # Menu
-  menu_primary = "rgb(255, 255, 255)"
-  menu_text = "#355E3B"
-  menu_text_active = "#4A4A4A"
-  menu_title = "#4A4A4A"
+  menu_primary = "#1A1A1A"
+  menu_text = "#F0F0F0"
+  menu_text_active = "#3E5641"
+  menu_title = "#004D61"
 
   # Home sections
-  home_section_odd = "#0A070C"
-  home_section_even = "#140D18"
+  home_section_odd = "#1A1A1A"
+  home_section_even = "#1A1A1A"
