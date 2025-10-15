@@ -7,7 +7,7 @@ tags:
 - Response Reactivity
 - Impulsivity
 - Experimental Research
-date: '2025-04-01T00:00:00Z'
+date: '2025-08-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

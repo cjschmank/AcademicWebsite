@@ -6,7 +6,7 @@ tags:
 - Psychometric Network Analysis
 - Latent Variable Modeling
 - Woodcock-Johnson Tests of Cognitive Ability
-- Research Projects
+- Statistical Modeling
 date: '2018-08-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

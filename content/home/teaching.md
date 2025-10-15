@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 50
 
-title: Currently Teaching. . . 
+title: Currently Teaching
 subtitle:
 
 # Date format for experience

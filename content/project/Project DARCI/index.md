@@ -6,7 +6,8 @@ tags:
 - Rationality
 - Crystallized Intelligence
 - Fluid Intelligence
-- Research Projects
+- Experimental Research
+- Statistical Modeling
 date: '2022-01-20T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

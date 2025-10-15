@@ -6,7 +6,7 @@ title: Christopher J. Schmank, PhD
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor and Statistics Consultant
+role: Assistant Professor / </br> Statistics Consultant
 
 # Organizations/Affiliations to show in About widget
 organizations:

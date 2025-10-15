@@ -28,7 +28,7 @@ content:
   email: chris.schmank@health.slu.edu
   phone: 314-977-7299
   address:
-    street: 3700 Lindell Blvd., Morrissey Hall
+    street: Morrissey Hall </br> 3700 Lindell Blvd.
     city: St. Louis
     region: 
     postcode: '63108'
@@ -45,31 +45,32 @@ content:
       icon_pack: fa
       name: 'Schedule an Appointment'
       link: 'https://calendly.com/christopher-j-schmank'
+    - icon: github
+      icon_pack: fab
+      name: GitHub Personal Page
+      link: https://github.com/cjschmank'
+    - icon: osf
+      icon_pack: ai
+      name: OSF Personal Page
+      link: 'https://osf.io/b57sp/'
     - icon: twitter
       icon_pack: fab
-      name: Follow on Twitter
+      name: Find me on Twitter
       link: 'https://twitter.com/cjschmank'
     - icon: linkedin
       icon_pack: fab
-      name: Find on LinkedIn
+      name: Find me on LinkedIn
       link: 'https://www.linkedin.com/in/christopherjschmank/'
-    - icon: osf
-      icon_pack: ai
-      name: Find on OSF
-      link: 'https://osf.io/b57sp/'
     - icon: researchgate
       icon_pack: fab
-      name: Find on ResearchGate
+      name: Find me on ResearchGate
       link: https://www.researchgate.net/profile/Christopher-Schmank-2'    
     - icon: google-scholar
       icon_pack: ai
-      name: Find on GoogleScholar
+      name: Find me on GoogleScholar
       link: 'https://scholar.google.com/citations?user=-C3eiuYAAAAJ&hl=en'
-    - icon: github
-      icon_pack: fab
-      name: Find on GitHub
-      link: https://github.com/cjschmank'
+
 
 design:
-  columns: '2'
+  columns: '1'
 ---

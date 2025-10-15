@@ -7,7 +7,7 @@ tags:
 - Exploratory and Confirmatory Analyses
 - Cognitive Aging
 - Hungarian WAIS-IV
-- Research Projects
+- Statistical Modeling
 date: '2020-04-19T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
