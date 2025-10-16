@@ -13,7 +13,7 @@ name = "my_theme"
   # Menu
   menu_primary = "#F0F0F0"
   menu_text = "#1A1A1A"
-  menu_text_active = "#004D61"
+  menu_text_active = "#3E5641"
   menu_title = "#1A1A1A"
 
   # Home sections
@@ -29,7 +29,7 @@ name = "my_theme"
   # Menu
   menu_primary = "#1A1A1A"
   menu_text = "#F0F0F0"
-  menu_text_active = "#3E5641"
+  menu_text_active = "#004D61"
   menu_title = "#F0F0F0"
 
   # Home sections
